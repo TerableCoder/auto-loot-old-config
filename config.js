@@ -20,8 +20,8 @@ module.exports = {
         169886, 169887, 169888, 169889, 169890, 169891, // Locked ???? Strongbox
 
 		//98512, // Pansophic Ash	
-		98513, // Essence
-		98590, // Veilthroch
+		//98513, // Essence
+		//98590, // Veilthroch
 
         //98599, // Devil's Claws
         //98600, // Dragon Skull
@@ -59,7 +59,25 @@ module.exports = {
 		
 		88840, // Bahaar's Amplifier Coin
 		88841, // Bahaar's Handwear Amplifier
-		88842 // Bahaar's Footwear Amplifier
+		88842, // Bahaar's Footwear Amplifier
+		
+		98667, // Skill Optimization Scroll I
+		98669, // Skill Optimization Scroll II
+		
+		
+		
+		89040, // yellow relic
+		89020, // blue power relic
+		89010, // green crit relic
+		89000, // green power relic
+		89030, // blue crit relic
+		
+		89130, // blue crit halidom
+		89110, // green crit halidom
+		89140, // yellow halidom
+		89120, // blue power halidom
+		89100 // green power halidom
+		
 		
     ]
 }
